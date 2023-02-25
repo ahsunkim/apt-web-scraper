@@ -26,7 +26,6 @@ createdb apartment
 ```
 
 ## Configuration
-
 To configure the PostgreSQL database connection URL, edit the `DATABASE_URL` variable in the `apartment_scraper.py` and `app.py` files to match your PostgreSQL database credentials.
 
 ## Usage
