@@ -1,5 +1,7 @@
 # apt-web-scraper
 
+WIP Project! 
+
 This Python project scrapes apartment rent listings from Apartments.com and stores the data in a PostgreSQL database. It also provides a GraphQL API that allows you to query the apartment data using the GraphiQL interface.
 
 ## Installation
